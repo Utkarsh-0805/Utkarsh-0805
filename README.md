@@ -1,6 +1,6 @@
 - # 👋 Hi, I’m Utkarsh
 
-🎓 I’m a 2nd-year student at BBDITM and an aspiring Data Scientist.  
+🎓 I’m a 3rd-year student at BBDITM and an aspiring Data Scientist.  
 💡 Passionate about AI, Machine Learning, and solving real-world problems through code.
 
 ## 👀 I’m interested in:
